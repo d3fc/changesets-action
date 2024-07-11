@@ -1,5 +1,11 @@
 # @changesets/action
 
+## 1.4.8
+
+### Patch Changes
+
+- [`1e7e6fd`](https://github.com/changesets/action/commit/1e7e6fd5caa04d0334163491dd4181131cf4b6da) Thanks [@jisted-scottlogic](https://github.com/jisted-scottlogic)! - Create proper release /dist, amend README
+
 ## 1.4.7
 
 ### Patch Changes
