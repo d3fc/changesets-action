@@ -1,5 +1,11 @@
 # @changesets/action
 
+## 1.4.9
+
+### Patch Changes
+
+- [`863b667`](https://github.com/changesets/action/commit/863b667db1d897a249f12dc623bca0be85988291) Thanks [@jisted-scottlogic](https://github.com/jisted-scottlogic)! - Change default commit message to match linting rules
+
 ## 1.4.8
 
 ### Patch Changes
